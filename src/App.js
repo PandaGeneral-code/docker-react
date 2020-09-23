@@ -5,6 +5,9 @@ import { Root } from "./components/Root/Root";
 export const App = () => {
   return (
     <>
+      <div>
+        <h1>This is my table</h1>
+      </div>
       <Root />
     </>
   );

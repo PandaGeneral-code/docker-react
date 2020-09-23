@@ -6,7 +6,7 @@ import { Wrapper } from "./styled";
 export const Root = () => {
   return (
     <Wrapper>
-      <Table   />
+      <Table />
     </Wrapper>
   );
 };
