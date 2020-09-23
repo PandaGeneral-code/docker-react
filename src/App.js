@@ -8,6 +8,7 @@ export const App = () => {
       <div>
         <h1>This is my table</h1>
         <div>Now I don't like.</div>
+        <div>Maybe now?</div>
       </div>
       <Root />
     </>
