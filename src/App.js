@@ -7,6 +7,7 @@ export const App = () => {
     <>
       <div>
         <h1>This is my table</h1>
+        <div>I like my table.</div>
       </div>
       <Root />
     </>
