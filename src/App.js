@@ -24,7 +24,7 @@ export const App = () => {
               <button onClick={() => setVisible((visible) => !visible)}>
                 Take me back
               </button>
-              {visible && <div>There is no going back</div>}
+              {visible && <div>There is no going back.</div>}
             </div>
           </Route>
         </Switch>
